@@ -1,0 +1,23 @@
+﻿Website
+1. Servicios similares (Ruben)
+2. Definir base de datos (SEGOB)
+3. Definir elementos de visualización (Todos)
+4. Diseño de colores y tipografía (Nelly)
+5. Canvas (Nelly)
+6. Crear el proyecto con Angular: (Alberto)
+Routing, Styles 
+       7. Subirlo al repositorio:
+       8. Definir Estructura del proyecto:
+1. Navbar (Ruben)
+2. Home (Alberto)
+3. Visualización 
+4. Análisis y clave de la visualización
+5. Definición de base de datos: 
+6. Visualización datos norte y análisis
+7. Visualización datos sur y análisis
+8. Footer (Nelly)
+
+
+      9.Realizar las partes asignadas del proyecto.(Navbar, Home y  Footer)
+      10.Definir alcance (Página informativa)
+(2 semanas)
